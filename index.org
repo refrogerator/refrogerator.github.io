@@ -1,0 +1,49 @@
+#+TITLE: fortnite chud
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" />
+#+OPTIONS: num:t
+
+* <<rust>>Rust Projects
+
+#+HTML: <a href="https://github.com/refrogerator/space"><div class="sapphire box">
+** Space
+*** GUI text editor inspired by Spacemacs
+[[file:space.png]]
+#+HTML: </div></a>
+
+#+HTML: <a href="https://gitlab.com/froge/rmus"><div class="right"><div class="teal box">
+** Rmus
+*** terminal based music player application and library
+[[file:rmus.png]]
+#+HTML: </div></div></a>
+
+* <<c>>C Projects
+
+#+HTML: <a href="https://gitlab.com/froge/vulkan-pipelines-test"><div class="green box">
+** Game Engine
+*** high-performance game engine with physically based forward rendering, bindless, indirect drawing, 3D audio, physics and ECS
+[[file:engine.png]]
+#+HTML: </div></a>
+
+#+HTML: <a href="https://gitlab.com/froge/testkernel-thing"><div class="right"><div class="yellow box">
+** Kernel
+*** WIP kernel, runs on baremetal
+[[file:testkernel.png]]
+#+HTML: </div></div></a>
+
+#+HTML: <a href="https://gitlab.com/froge/waytile"><div class="peach box">
+** Waytile
+*** dynamic tiling window manager for wayland
+#+HTML: </div></a>
+
+#+HTML: <a href="https://gitlab.com/froge/lemon-lang"><div class="right"><div class="red box">
+** Lemon Lang
+*** programming language compiler and VM
+[[file:lemon.png]]
+#+HTML: </div></div></a>
+
+#+HTML: <a href="https://gitlab.com/froge/waytile"><div class="mauve box">
+** Stray
+*** 2D platformer game prototype and level editor
+[[file:stray.png]]
+#+HTML: </div></a>
