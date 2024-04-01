@@ -1,4 +1,4 @@
-#+TITLE: fortnite chud
+#+TITLE: Projects
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" />
 #+OPTIONS: num:t
